@@ -6,4 +6,6 @@ Create a static webpage and add Tableau visualization dashboard for hawaii state
 
 The map with the data in tableau was presented by downloading the proper spatial file from census shapefiles and indicating for year and state with layer type as census tracts.
 
-Tableau dashboard- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/hawaibook1/Sheet1?:iid=2
+Tableau dashboard Hawaii- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/hawaibook1/Sheet1?:iid=2
+
+Cali- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/calibook1/Sheet1?:iid
