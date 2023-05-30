@@ -9,3 +9,8 @@ The map with the data in tableau was presented by downloading the proper spatial
 Tableau dashboard Hawaii- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/hawaibook1/Sheet1?:iid=2
 
 Cali- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/calibook1/Sheet1?:iid
+
+Current status-
+Updated tableau dashboard in an already developed React app-
+
+![hawaii]()
