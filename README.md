@@ -13,4 +13,4 @@ Cali- https://us-west-2b.online.tableau.com/#/site/saiswarup/views/calibook1/She
 Current status-
 Updated tableau dashboard in an already developed React app-
 
-![hawaii]()
+![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.04.59%20AM.png)
