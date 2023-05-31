@@ -27,6 +27,10 @@ Once data is ready, we can then use various output options that Social Explorer 
 
 ![]()
 
+Final data sheet will look like this:
+
+
+
 
 ### Use Tableau to visualize and publish the dashboard on Tableau Cloud:
 
@@ -37,6 +41,28 @@ After removing unwanted columns in the file and ensuring all relevant fields are
 And then select state as Hawaii and download:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-31%20at%2011.36.20%20AM.png)
+
+In tableau select text file and upload the data:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau1.png)
+
+Once uploaded, the data source will look like this in the tableau:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau2.png)
+
+Next we can upload the required spatial file for mapping the respective data based on various counties of hawaii by clicking on Add connection:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau3.png)
+
+Next we can map the hawaii data.csv to the spatial file and then provide the necessary union condition. Here we use th FIPS mapping with Geoid for effective data mapping and presentation:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau4.png)
+
+Once done, we can move to sheet1 and click on geometry to get the desired mapping as needed. Later on we can use qualifying name(to match the census tract for the county) and the population % for age 25 years or older:Bachelors degree or better and other such properties for effective mapping and displaying the results based on various counties across Hawaii which shows how the population is progressing with literacy in all counties:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau5.png)
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau6.png)
 
 
 
