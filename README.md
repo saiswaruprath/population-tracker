@@ -87,6 +87,23 @@ Once done, we can move to sheet1 and click on geometry to get the desired mappin
 &nbsp;
 &nbsp;
 &nbsp;
+
+### 4) Integrating Tableau Dashboard into ReactJS application:
+
+Now that we have our visualization ready, we want to integrate the dashboard into our ReactJS application. For current sceanrio, we are integrating the tableau dashboard into an already existing application. To integrate the dashboard click on Share option in Tableau Cloud and select the copy embed code option:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Tableau8.png)
+&nbsp;
+
+&nbsp;
+
+Finally we add the embedded code for the dashboard in the idex.html file of our React application and adjust the hieght and width as needed and then start the react app using Node Server Command to get the display as shown below:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Tableau9.png)
+
+
+
+
 ![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.04.59%20AM.png)
 
 
