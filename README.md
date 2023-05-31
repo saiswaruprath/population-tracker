@@ -12,26 +12,30 @@ The map with the data in tableau was presented by downloading the proper spatial
 ### 1) Gather Data
 Firstly we used Social explorer- https://www.socialexplorer.com/explore-tables that helps to efficiently take use census data and also enables us to clean out the data with its various tools and helpful links while downloading the correct data according to specific needs. For this scenario, we have taken the American Community Survey(ACS) 2017--2021(5 year estimates data) as shown below and lick on "Begin Report":
 
-![]()
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im1.png)
 
 In the next page we select geographic type as Census Tract, select the state as Hawaii and select all census tracts in hawaii that will include data for all counties in Hawaii culminating till 2021. And then click on proceed to tables.
 
-![]()
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im2.png)
 
-![]()
+&nbsp;
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im3.png)
 
 Once done, we next select the table type as Educational attainment for population 25 years or older(Collapsed version) as shown below and then click on show results:
 
-![]()
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im4.png)
 
 &nbsp;
 &nbsp;
 ### 2) Download Data
 Once data is ready, we can then use various output options that Social Explorer provides and then download the CSV file:
 
-![]()
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im5.png)
 
 Final data sheet will look like this:
+
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im6.png)
 
 
 
