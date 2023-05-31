@@ -6,6 +6,8 @@ The initial target is to create a static webpage and add Tableau visualization d
 
 The map with the data in tableau was presented by downloading the proper spatial file from census shapefiles and indicating for year and state with layer type as census tracts.
 
+&nbsp;
+&nbsp;
 ## STEPS FOLLOWED FOR CURRENT PROGRESS
 ### 1) Gather Data
 Firstly we used Social explorer- https://www.socialexplorer.com/explore-tables that helps to efficiently take use census data and also enables us to clean out the data with its various tools and helpful links while downloading the correct data according to specific needs. For this scenario, we have taken the American Community Survey(ACS) 2017--2021(5 year estimates data) as shown below and lick on "Begin Report":
