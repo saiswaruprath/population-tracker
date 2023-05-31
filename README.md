@@ -24,6 +24,8 @@ Once done, we next select the table type as Educational attainment for populatio
 
 ![]()
 
+&nbsp;
+&nbsp;
 ### 2) Download Data
 Once data is ready, we can then use various output options that Social Explorer provides and then download the CSV file:
 
@@ -33,35 +35,43 @@ Final data sheet will look like this:
 
 
 
-
-### Use Tableau to visualize and publish the dashboard on Tableau Cloud:
+&nbsp;
+&nbsp;
+### 3) Use Tableau to visualize and publish the dashboard on Tableau Cloud:
 
 After removing unwanted columns in the file and ensuring all relevant fields are present we then open tableau and upload the csv file. For mapping of census tract data properly, we use https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html page to download the proper spatial file based on the state that we have selected.
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-31%20at%2011.35.27%20AM.png)
 
+&nbsp;
 And then select state as Hawaii and download:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-31%20at%2011.36.20%20AM.png)
 
+&nbsp;
+&nbsp;
 In tableau select text file and upload the data:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau1.png)
-
+&nbsp;
+&nbsp;
 Once uploaded, the data source will look like this in the tableau:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau2.png)
-
+&nbsp;
+&nbsp;
 Next we can upload the required spatial file for mapping the respective data based on various counties of hawaii by clicking on Add connection:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau3.png)
-
+&nbsp;
+&nbsp;
 Next we can map the hawaii data.csv to the spatial file and then provide the necessary union condition. Here we use th FIPS mapping with Geoid for effective data mapping and presentation:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau4.png)
 
 
-
+&nbsp;
+&nbsp;
 
 
 Once done, we can move to sheet1 and click on geometry to get the desired mapping as needed. Later on we can use qualifying name(to match the census tract for the county) and the population % for age 25 years or older:Bachelors degree or better and other such properties for effective mapping and displaying the results based on various counties across Hawaii which shows how the population is progressing with literacy in all counties:
@@ -69,11 +79,14 @@ Once done, we can move to sheet1 and click on geometry to get the desired mappin
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau5.png)
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau6.png)
-
+&nbsp;
+&nbsp;
 ### Once done with our visualization we can publish the sheet to Tableau cloud as follows- Go to File option in Tableau and click on share and then click Publish without extract, the sheet will be uploaded to Tableau Cloud from which we can share it in an application or other areas for more visibility. Once published, the sheet will look like this in Tableau Cloud:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Tableau7.png)
-
+&nbsp;
+&nbsp;
+&nbsp;
 ![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.04.59%20AM.png)
 
 
