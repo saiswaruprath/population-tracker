@@ -102,9 +102,11 @@ Finally we add the embedded code for the dashboard in the idex.html file of our 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Tableau9.png)
 
 
+&nbsp;
+
+&nbsp;
+
+![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau10.png)
 
 
-![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.04.59%20AM.png)
-
-
-![hawaii2](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.05.17%20AM.png)
+![hawaii2](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau11.png)
