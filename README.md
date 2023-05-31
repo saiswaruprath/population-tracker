@@ -58,6 +58,10 @@ Next we can map the hawaii data.csv to the spatial file and then provide the nec
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau4.png)
 
+
+
+
+
 Once done, we can move to sheet1 and click on geometry to get the desired mapping as needed. Later on we can use qualifying name(to match the census tract for the county) and the population % for age 25 years or older:Bachelors degree or better and other such properties for effective mapping and displaying the results based on various counties across Hawaii which shows how the population is progressing with literacy in all counties:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/teableau5.png)
