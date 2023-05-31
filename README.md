@@ -64,7 +64,9 @@ Once done, we can move to sheet1 and click on geometry to get the desired mappin
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/tableau6.png)
 
+### Once done with our visualization we can publish the sheet to Tableau cloud as follows- Go to File option in Tableau and click on share and then click Publish without extract, the sheet will be uploaded to Tableau Cloud from which we can share it in an application or other areas for more visibility. Once published, the sheet will look like this in Tableau Cloud:
 
+![](https://github.com/saiswaruprath/population-tracker/blob/main/images/Tableau7.png)
 
 ![hawaii](https://github.com/saiswaruprath/population-tracker/blob/main/images/Screenshot%202023-05-30%20at%2011.04.59%20AM.png)
 
