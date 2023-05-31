@@ -14,14 +14,18 @@ Firstly we used Social explorer- https://www.socialexplorer.com/explore-tables t
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im1.png)
 
+&nbsp;
+&nbsp;
 In the next page we select geographic type as Census Tract, select the state as Hawaii and select all census tracts in hawaii that will include data for all counties in Hawaii culminating till 2021. And then click on proceed to tables.
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im2.png)
 
 &nbsp;
-
+&nbsp;
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im3.png)
 
+&nbsp;
+&nbsp;
 Once done, we next select the table type as Educational attainment for population 25 years or older(Collapsed version) as shown below and then click on show results:
 
 ![](https://github.com/saiswaruprath/population-tracker/blob/main/images/im4.png)
